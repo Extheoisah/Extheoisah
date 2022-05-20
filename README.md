@@ -25,7 +25,7 @@
 
 - :zap: In my free time, I hangout with family, play board games and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theophilus-isah)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/theophilus-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theophilus-isah)
 
 ---
 
