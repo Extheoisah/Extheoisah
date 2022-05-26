@@ -19,9 +19,15 @@
   <img src="https://komarev.com/ghpvc/?username=extheoisah&style=flat-square&color=green" alt=""/>
 </div>
 
-- :telescope: I am a Software and Bitcoin developer :coin: :zap:, contributing to frontend and backend for building magic applications.
+- :telescope: I am a Software and Bitcoin developer based in Lagos, Nigeria :coin: :zap:, contributing to frontend and backend for building magic applications.
+                                                                                                
+- I'm fascinated by all things related to software. Computer systems, Bitcoin, and Lightning projects have all piqued my interest. 
 
-- :seedling: Exploring Technical Content Writing.
+- I build software applications in Javascript, Typescript, and recently Rust.
+
+- I publish technical essays about web development, Bitcoin, and Lightning on occasion in my [blog here](https://extheo.hashnode.dev)
+
+- :seedling: I am open to opportunities in the bitcoin ecosystem because I am passionate about improving the technology.
 
 - :zap: In my free time, I hangout with family, play board games and read tech articles.
 
